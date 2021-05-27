@@ -1,2 +1,2 @@
 
-_*hi, I am Nikitha* I working on Markdown project_
+_hi, I am Nikitha I am working on Markdown project_
